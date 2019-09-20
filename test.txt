@@ -8,5 +8,12 @@ This project will provide 3UK Standard MVNOs with the ability to tether whilst r
 2.	Verify 3G and 4G Data CDRs for MVNO customers are successfully processed in NOKCG4U BL and in downstream systems.
 3.	Validate whether all FMS feeds are successfully processed.
 4.	Validate whether all RA feeds are successfully processed
-project will provide  processed    in NAI-SA BL  and in downstream systems erify 3G and 4G Data 
 
+friend
+friendfriendfriendfriendfriendfriendfriend
+friendfriend
+friendfriend
+friendfriendfriendfriend
+friend
+versionv
+versionv
